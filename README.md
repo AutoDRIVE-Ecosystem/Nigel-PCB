@@ -1,6 +1,6 @@
-# Nigel Electronics
+# Nigel Fritzing
 
-Electrical and Electronics Designs of Nigel
+Fritzing PCB Design of Nigel
 
 | ![](Breadbord.png) | ![](Schematic.png) | ![](PCB.png) |
 |:------------------:|:------------------:|:------------:|
