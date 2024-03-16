@@ -1,4 +1,4 @@
-# Nigel Fritzing
+# Nigel PCB
 
 Fritzing PCB Design of Nigel
 
